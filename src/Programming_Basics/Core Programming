@@ -25,3 +25,8 @@
    so here are two type of castings, Narrow casting,Wider Casting - in narrow cast We are downgrade our data type, in wider cast we are upgrade our data type,
    like we want to convert our double data into a integer, and widening is like convert int into a double.
 
+7. What is the difference between static typing and dynamic typing?
+:: Static typing is : the types are checking while the compile time, so types must be fixed type, types cannot be changed
+   Dynamic typing is : the types are checking while the runtime, so in the runtime interpreter decides it
+
+8.
