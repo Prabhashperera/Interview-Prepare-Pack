@@ -10,4 +10,9 @@
 :: Compiler is Translate our whole Code into a Machine code before running it - like before reading a book we print the whole book into our understandable language and read it,
    but the Interpreter is Converting line by line while running - like while reading a english book we translate it into Sinhala line by lines
 
-4.
+4. What is a variable and how does memory allocation work for it?
+:: A Variable is simply holding a memory location of variable value, so it is like a home address - itself its not a value,
+   but its helps to label the value, so we can easily use the value that holding,
+   in memory it is on the Stack or Heap, is the variable is a primitive data type, it is in the STACK memory in the RAM
+   or if its a Non Primitive like objects arrays or dynamic value, it is storing on the HEAP memory.
+
