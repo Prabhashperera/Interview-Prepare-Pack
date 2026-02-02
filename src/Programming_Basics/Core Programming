@@ -29,4 +29,6 @@
 :: Static typing is : the types are checking while the compile time, so types must be fixed type, types cannot be changed
    Dynamic typing is : the types are checking while the runtime, so in the runtime interpreter decides it
 
-8.
+8. What is a conditional statement and why do we need it?
+:: its simply decide the programs flow, so with conditional states we can do comparisons and change the flow of a task
+   and what to run, when to run, which is to execute decided by conditions
