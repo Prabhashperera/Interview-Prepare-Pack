@@ -18,4 +18,10 @@
 
 5. What are primitive data types? Can you give examples?
 :: Primitive Data Types are storing only one piece value at a time, so those types are come from the language,
-   in java there giving us, int,float,double,boolean
+   in java there giving us, byte,int,float,double,boolean
+
+6. What is type casting and when would you use it?
+:: Type casting is using when we want to change the type of a primitive data type after it already assigned to another type
+   so here are two type of castings, Narrow casting,Wider Casting - in narrow cast We are downgrade our data type, in wider cast we are upgrade our data type,
+   like we want to convert our double data into a integer, and widening is like convert int into a double.
+
