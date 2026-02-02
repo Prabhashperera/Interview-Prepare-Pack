@@ -38,4 +38,9 @@
    and the else if is used to add 2 or more conditions with the if statement, so we can add options with else if,
    and switch is used for cases, so its compare only one variable, so we can use it if we have only one variable to compare.
 
-10.
+10. What is a loop? When would you use one?
+:: A control structure that repeats a block of code multiple times until a condition is met. for a example instead of writing, 1 to 10,
+   we can write loop to print 1 to 10 or any number in 3 or 4 lines, You use loops whenever you want to do something repeatedly without duplicating code.
+
+
+
