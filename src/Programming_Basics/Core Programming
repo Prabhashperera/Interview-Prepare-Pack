@@ -32,3 +32,10 @@
 8. What is a conditional statement and why do we need it?
 :: its simply decide the programs flow, so with conditional states we can do comparisons and change the flow of a task
    and what to run, when to run, which is to execute decided by conditions
+
+9. Explain the difference between if, else if, and switch.
+:: we are using if statement for compare two variables and if its true, if body will execute,
+   and the else if is used to add 2 or more conditions with the if statement, so we can add options with else if,
+   and switch is used for cases, so its compare only one variable, so we can use it if we have only one variable to compare.
+
+10.
