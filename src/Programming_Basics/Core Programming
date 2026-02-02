@@ -16,3 +16,6 @@
    in memory it is on the Stack or Heap, is the variable is a primitive data type, it is in the STACK memory in the RAM
    or if its a Non Primitive like objects arrays or dynamic value, it is storing on the HEAP memory.
 
+5. What are primitive data types? Can you give examples?
+:: Primitive Data Types are storing only one piece value at a time, so those types are come from the language,
+   in java there giving us, int,float,double,boolean
