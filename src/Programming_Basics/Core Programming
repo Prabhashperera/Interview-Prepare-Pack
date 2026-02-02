@@ -6,3 +6,8 @@
 :: Algorithms are basically a group of tasks (steps) when doing a Big Task, 2 or more tasks connected to each other
    As a example when we want to cook rice, we have group of steps to complete...
 
+3. What is the difference between a compiler and an interpreter?
+:: Compiler is Translate our whole Code into a Machine code before running it - like before reading a book we print the whole book into our understandable language and read it,
+   but the Interpreter is Converting line by line while running - like while reading a english book we translate it into Sinhala line by lines
+
+4.
